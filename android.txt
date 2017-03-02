@@ -1,0 +1,50 @@
+android httpclient deprecated
+android httpurlconnection upload multi file
+
+https://gnehcic.azurewebsites.net/android%E4%B8%8A%E5%82%B3%E6%AA%94%E6%A1%88%E8%87%B3%E7%B6%B2%E7%AB%99/
+
+http://stackoverflow.com/questions/30243286/android-allow-multiple-file-upload-max-150-mb-to-php-server
+
+http://stackoverflow.com/questions/32984323/upload-multiple-image-file-using-httpurlconnection
+
+http://stackoverflow.com/questions/32969474/upload-multiple-file-using-httpurlconnection
+
+http://stackoverflow.com/questions/29278531/how-to-upload-multiple-files-within-a-single-request
+
+android httpurlconnection upload multiple file asyn
+
+httpurlconnection MultipartEntity
+
+
+volley
+http://stackoverflow.com/questions/32240177/working-post-multipart-request-with-volley-and-without-httpentity
+
+http://stackoverflow.com/questions/32353466/multipartentitybuilder-to-send-data-from-android-httpurlconnection
+
+
+
+********android studio upload file to server*************
+http://www.coderefer.com/android-upload-file-to-server/
+http://stackoverflow.com/questions/32187450/trouble-sending-multipart-file-with-boundary-via-volley
+
+http://stackoverflow.com/questions/16797468/how-to-send-a-multipart-form-data-post-in-android-with-volley/
+
+http://stackoverflow.com/questions/32240177/working-post-multipart-request-with-volley-and-without-httpentity
+
+http://instinctcoder.com/android-studio-upload-any-files-to-asp-net-web-api/******
+
+okhttp
+https://bng86.gitbooks.io/android-third-party-/content/okhttp.html
+
+Retrofit
+https://bng86.gitbooks.io/android-third-party-/content/retrofit.html
+
+compile files('libs/android-support-v4.jar')
+
+compile 'org.apache.httpcomponents:httpclient:4.5.2'
+    compile 'org.apache.httpcomponents:httpcore:4.4.4'
+    compile 'org.apache.httpcomponents:httpmime:4.5.2'
+    compile files('libs/httpclient-4.5.2.jar')
+    compile files('libs/httpcore-4.4.4.jar')
+    compile files('libs/httpmime-4.5.2.jar')
+C:\Users\a109\AppData\Local\Android\sdk\platforms
